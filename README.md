@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I am Shruthi Sivagnanam 😊
 
+![](coding.gif)
 
 
 
