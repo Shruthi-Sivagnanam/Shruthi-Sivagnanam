@@ -12,6 +12,7 @@
 - 💬 Ask me about html and C++
 - 😄 Pronouns: She/her
  
- ### Language and libraries ###
+ 
+
 
 
