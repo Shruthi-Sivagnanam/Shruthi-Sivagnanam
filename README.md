@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there  👋
 ## I am Shruthi Sivagnanam 😊
 <p align="center">
   <img src="coding.gif" width="250" height="200"/>
@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with css advance and javascript
 - 💬 Ask me about html and C++
 - 😄 Pronouns: She/her
-
-Known language: html,css,C,C++.
+ 
+ ### Language and libraries ###
 
 
