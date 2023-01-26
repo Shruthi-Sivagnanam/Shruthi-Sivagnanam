@@ -79,11 +79,14 @@ void main()
 # My Contributions
 
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shruthi-Sivagnanam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" width="45%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shruthi-Sivagnanam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shruthi-Sivagnanam&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats"  width="45%"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shruthi-Sivagnanam&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats"/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi-Sivagnanam&theme=cobalt&hide_border=true)
+  
+# Trophies
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4" alt="shruthi-sivagnanam" /></a> </p>
  
 
 # Contact me
