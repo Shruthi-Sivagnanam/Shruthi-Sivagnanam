@@ -1,4 +1,4 @@
-![download (1)](https://user-images.githubusercontent.com/82823305/156890053-87ff6a79-8121-4c9d-95a4-d7b153c61939.png "Header")
+# Hi, Shruthi here 😊
 
 # About me
 
