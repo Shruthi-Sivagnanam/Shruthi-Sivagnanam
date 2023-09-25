@@ -94,7 +94,7 @@ void main()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi-sivagnanam&theme=cobalt&hide_border=true)
   
 # Trophies
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4" alt="shruthi-sivagnanam" /></a> </p>
+![](https://github-trophies.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4)
  
 
 # Contact me
