@@ -1,6 +1,6 @@
 ![Header](https://github.com/Shruthi-Sivagnanam/Shruthi-Sivagnanam/assets/82823305/34ef2e23-b5b4-475b-b6c1-b281fced61ef)
 
-<details>
+<details open>
 <summary>
   <h1> About me 😊  </h1>
 </summary>
@@ -118,6 +118,7 @@ void main()
   <summary>
     <h1>Trophies 	:trophy: </h1>
   </summary>
+  
 ![](https://github-trophies.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4)
  
 </details>
