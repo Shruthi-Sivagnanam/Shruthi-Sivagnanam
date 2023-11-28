@@ -1,7 +1,9 @@
 ![Header](https://github.com/Shruthi-Sivagnanam/Shruthi-Sivagnanam/assets/82823305/34ef2e23-b5b4-475b-b6c1-b281fced61ef)
 
-
-# About me 😊
+<details>
+<summary>
+  <h1> About me 😊  </h1>
+</summary>
 
 ```cpp
 #include<life.h>
@@ -20,8 +22,13 @@ void main()
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about c,c++,java,HTML and css
 - 😄 Pronouns: She/her
- 
-# My strengths
+
+ </details>
+ <details>
+   <summary>
+     <h1>Strengths :muscle: </h1>
+   </summary>
+
 
 ## Languages
 
@@ -69,7 +76,13 @@ void main()
   <img src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </p>
 
-# Few Github repos
+</details>
+
+<details>
+  <summary>
+    <h1>Activities 	:woman_technologist: </h1>
+  </summary>
+
 
 <p align="left">
    </a>
@@ -87,22 +100,33 @@ void main()
   </a>
  
 </p>
+</details>
 
-# My Contributions
+<details>
+  <summary>
+    <h1>Contributions :100: </h1>
+  </summary>
 
 <p align="left">
-
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruthi-sivagnanam&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats"/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi-sivagnanam&theme=cobalt&hide_border=true)
-  
-# Trophies
+
+</details>
+
+<details>
+  <summary>
+    <h1>Trophies 	:trophy: </h1>
+  </summary>
 ![](https://github-trophies.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4)
  
+</details>
 
-# Contact me
+<details>
+  <summary>
+    <h1>Contact me :telephone_receiver:	 </h1>
+  </summary>
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Shruthi-Sivagnanam) 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shruthi-sivagnanam-172132216/)
+</details>
