@@ -80,7 +80,7 @@ void main()
 
 <details>
   <summary>
-    <h1>Activities 	:woman_technologist: </h1>
+    <h1>Activities 	💻 </h1>
   </summary>
 
 
@@ -116,7 +116,7 @@ void main()
 
 <details>
   <summary>
-    <h1>Trophies 	:trophy: </h1>
+    <h1>Trophies 	🏆 </h1>
   </summary>
   
 ![](https://github-trophies.vercel.app/?username=shruthi-sivagnanam&theme=darkhub&row=2&column=4)
